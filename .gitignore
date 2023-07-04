@@ -1,2 +1,5 @@
 .terraform*
 terraform.*
+wp-app
+config
+terraform_env_var.txt
